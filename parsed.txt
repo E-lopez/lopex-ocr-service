@@ -1,0 +1,98 @@
+>>> actividad_economica_principal: 8 899
+>>> ano: 2022
+>>> aporte_voluntario_art_244: 0
+>>> aportes_al_sistema_seguridad_social: 169,224,000
+>>> aportes_sena_icbf_cajas_compensacion: 68,080,000
+>>> cod_direcc_seccional: 17
+Group: costos_deducciones
+   >>>>>>>> costos: 0
+   >>>>>>>> gastos_administracion: 614,102,000
+   >>>>>>>> gastos_distribucion_ventas: 3,023,121,000
+   >>>>>>>> gastos_financieros: 164,524,000
+   >>>>>>>> otros_gastos_y_deducciones: 163,606,000
+   >>>>>>>> total_costos_gastos_deducibles: 3,965,353,000
+>>> dividendos_participaciones_gravadas_tarifa_general_sociedades: 0
+>>> dv: 7
+Group: esal_rte
+   >>>>>>>> inversiones_efectuadas_en_el_ano: 0
+   >>>>>>>> inversiones_liquidadas_periodos_gravables_anteriores: 0
+Group: ganancias_ocasionales
+   >>>>>>>> costos_ganancias_ocasionales: 0
+   >>>>>>>> ganancias_ocasionales_gravables: 0
+   >>>>>>>> ganancias_ocasionales_no_gravadas_exentas: 0
+   >>>>>>>> ingresos_ganancias_ocasionales: 0
+>>> identificacion_tributaria_nit: 8 0 0 1 39253
+Group: ingresos
+   >>>>>>>> devoluciones_rebajas_descuentos_en_ventas: 0
+   >>>>>>>> dividendos_participaciones_distribuidos_entidades_no_residentes: 0
+   >>>>>>>> dividendos_participaciones_gravadas_tarifa_general: 0
+   >>>>>>>> dividendos_participaciones_no_constitutivos_de_renta: 0
+   >>>>>>>> dividendos_participaciones_personas_naturales_2016_anteriores: 0
+   >>>>>>>> dividendos_participaciones_personas_naturales_2017_siguientes: 0
+   >>>>>>>> dividendos_participaciones_proyectos_megainversion: 0
+   >>>>>>>> dividendos_participaciones_tarifas_245_246: 0
+   >>>>>>>> ingresos_brutos_actividades_ordinarias: 2,431,021,000
+   >>>>>>>> ingresos_financieros: 63,386,000
+   >>>>>>>> ingresos_no_constitutivos_renta_ni_ganancia: 0
+   >>>>>>>> otros_ingresos: 1,485,209,000
+   >>>>>>>> total_ingresos_brutos: 3,979,616,000
+   >>>>>>>> total_ingresos_netos: 3,979,616,000
+Group: liquidacion_privada
+   >>>>>>>> Impuesto_neto_de_renta_sin_impuesto: 2,853,000
+   >>>>>>>> Impuesto_neto_renta_con_impuesto_adicionado: 2,853,000
+   >>>>>>>> anticipo_puntos_adicionales_ano_gravable_anterior: 0
+   >>>>>>>> anticipo_puntos_adicionales_ano_gravable_siguiente: 0
+   >>>>>>>> anticipo_renta_liquidado_ano_gravable_anterior: 0
+   >>>>>>>> anticipo_renta_para_ano_gravable_siguiente: 0
+   >>>>>>>> autorretenciones: 0
+   >>>>>>>> credito_fiscal_articulo_256: 0
+   >>>>>>>> descuento_efectivo_inversion_obras_por_impuestos_modalidad_2: 0
+   >>>>>>>> descuento_impuestos_pagados_exterior_ganancias_ocasionales: 0
+   >>>>>>>> descuentos_tributarios: 0
+   >>>>>>>> dividendos_participaciones_gravadas_10_o_20: 0
+   >>>>>>>> dividendos_participaciones_gravadas_tarifa_27: 0
+   >>>>>>>> dividendos_participaciones_gravadas_tarifa_33_base_52: 0
+   >>>>>>>> dividendos_participaciones_gravadas_tarifa_articulo_240: 0
+   >>>>>>>> dividendos_participaciones_gravadas_tarifa_articulo_240_base_56: 0
+   >>>>>>>> iImpuesto_ganancias_ocasionales: 0
+   >>>>>>>> impuesto_adicionar_ia: 0
+   >>>>>>>> otras_retenciones: 3,342,000
+   >>>>>>>> puntos_adicionales_tarifa_impuesto_renta: 0
+   >>>>>>>> saldo_favor_ano_anterior_sin_solicitud_devolucion_compensacion: 0
+   >>>>>>>> saldo_pagar_por_impuesto: 0
+   >>>>>>>> sanciones: 0
+   >>>>>>>> sobre_la_renta_liquida_gravable: 2,853,000
+   >>>>>>>> total_impuesto_cargo: 2,853,000
+   >>>>>>>> total_impuesto_sobre_rentas_liquidas_gravables: 2,853,000
+   >>>>>>>> total_retenciones_ano_gravable_a_declarar: 3,342,000
+   >>>>>>>> total_saldo_a_favor: 489,000
+   >>>>>>>> total_saldo_pagar: 0
+   >>>>>>>> valor_adicionar_vaa: 0
+   >>>>>>>> valor_inversion_obras_por_impuestos: 0
+>>> numero_formulario: 1117601886043
+>>> pago_total: 0
+Group: patrimonio
+   >>>>>>>> Inversiones_instrumentos_financieros_derivados: 95,286,000
+   >>>>>>>> activos_intangibles: 0
+   >>>>>>>> cuentas_documentos_arrendamientos_financieros_por_cobrar: 843,913,000
+   >>>>>>>> efectivo_equivalentes_al_efectivo: 2,375,532,000
+   >>>>>>>> otros_activos: 250,080,000
+   >>>>>>>> pasivos: 2,044,483,000
+   >>>>>>>> propiedades_planta_equipo_inversion_ANCMV: 839,347,000
+   >>>>>>>> total_patrimonio_bruto: 4,404,158,000
+   >>>>>>>> total_patrimonio_liquido: 2,359,675,000
+>>> razon_social: FUNDACION PROPAL
+Group: renta
+   >>>>>>>> compensaciones: 0
+   >>>>>>>> perdida_liquida_del_ejercicio: 0
+   >>>>>>>> renta_exenta: 0
+   >>>>>>>> renta_liquida: 14,263,000
+   >>>>>>>> renta_liquida_gravable: 14,263,000
+   >>>>>>>> renta_liquida_ordinaria_del_ejercicio: 14,263,000
+   >>>>>>>> renta_pasiva_ece_sin_residencia_fiscal_colombia: 0
+   >>>>>>>> renta_presuntiva: 0
+   >>>>>>>> renta_recuperacion_deducciones: 0
+   >>>>>>>> rentas_gravables: 0
+>>> total_costos_gastos_nomina: 1,108,251,000
+>>> valor_impuesto_exigible_por_obras_por_impuestos_Modalidad_1: 0
+>>> valor_total_proyecto_obras_por_impuestos_mod_2: 0
